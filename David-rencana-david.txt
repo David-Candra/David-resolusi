@@ -11,3 +11,4 @@ RENCANA DAVID
 - Membuat rumah
 - Membuat gedung
 - Membuat minuman
+- Membuat brand
