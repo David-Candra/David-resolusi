@@ -3,7 +3,9 @@ RENCANA DAVID
 - Membuat kue
   * Kue Cake
   * Kue Pie
-- Membuat perusahaan
+    ^Pie daging
+    ^Pie susu
 - Membuat makanan
+    ^Makanan hewan
 - Membuat rumah
 - Membuat gedung
